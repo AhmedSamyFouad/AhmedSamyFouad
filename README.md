@@ -59,16 +59,18 @@ Tools: [Linux, Postman, MySQL, Git, Jira, Jenkins]
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AhmedSamyFouad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-📈 Activity Graph
+📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSamyFouad&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSamyFouad&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedSamyFouad/AhmedSamyFouad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedSamyFouad/AhmedSamyFouad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedSamyFouad/AhmedSamyFouad/output/github-contribution-grid-snake.svg">
-</picture>
+🎯 3D Contribution Calendar
+<p align="center">
+  <img src="https://github.com/AhmedSamyFouad/AhmedSamyFouad/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" />
+</p>
+🔥 Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/AhmedSamyFouad?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCairo" alt="Metrics" />
+</p>
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:00d4aa&height=100&section=footer"/>
