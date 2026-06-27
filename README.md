@@ -1,7 +1,7 @@
-&lt;h1 align="center"&gt;A Tester | Automation | API | UI Testing&lt;/h1&gt;
+ر&lt;h1 align="center"&gt;A Tester | Automation | API | UI Testing&lt;/h1&gt;
 
 &lt;p align="center"&gt;
-  &lt;img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="welcome" width="400"/&gt;
+  &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100"/&gt;
 &lt;/p&gt;
 
 &lt;h2 align="center"&gt;Hi there, I'm Ahmed Samy 👋&lt;/h2&gt;
@@ -49,7 +49,7 @@
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSamyFouad&theme=tokyonight" alt="GitHub Streak" /&gt;
+  &lt;img src="https://streak-stats.demolab.com?user=AhmedSamyFouad&theme=tokyonight" alt="GitHub Streak" /&gt;
 &lt;/p&gt;
 
 ---
